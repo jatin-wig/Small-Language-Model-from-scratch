@@ -1,4 +1,4 @@
-# 🚀 Small Language Model From Scratch
+# Small Language Model From Scratch
 ### Building a Decoder-Only Transformer Without Training Frameworks 
 
 A production-style implementation of a compact Transformer language model designed to understand the inner mechanics of modern LLM systems — from dataset engineering to autoregressive generation.
